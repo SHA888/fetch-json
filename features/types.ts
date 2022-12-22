@@ -10,3 +10,9 @@ class Color {
 
 }
 const red = new Color();
+
+// Types:
+/*
+- Primitive types: number, string, boolean, void, undefined, symbol, null
+- Object types: functions, arrays, classes, objects
+*/
